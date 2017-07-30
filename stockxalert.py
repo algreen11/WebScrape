@@ -8,7 +8,7 @@ import time
 account_sid = "TWILIO ACCOUNT SID"
 auth_token = "TWILIO ACCOUNT AUTH TOKEN"
 twilio_phone_number = 'TWILIO NUMBER'
-user_phone = 'MY PHONE NUMBER'
+user_phone = 'MY PHONE NUMBER' # '12345678901'
 shoe_url = 'https://stockx.com/adidas-yeezy-boost-350-pirate-black-2016'
 size = 10
 price_threshold = 1200
