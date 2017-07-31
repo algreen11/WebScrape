@@ -1,6 +1,6 @@
 # Web Scraping
  - These are a few of my pet scraping projects
- - Must Install `requests`, `urlib.request`, `Beautiful Soup` to work, which can be done via a combination of HomeBrew/pip
+ - Must Install `urlib.request`, `Beautiful Soup`, 'twilio' to work, which can be done via a combination of HomeBrew/pip
 
 ### MrPorterWebScrape
 Gets prices of blue oxford tshirts (however, can modify search for anything on website)
